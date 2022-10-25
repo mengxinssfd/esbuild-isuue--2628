@@ -1,0 +1,22 @@
+{
+  "name": "esbuild-isuue--2628",
+  "version": "1.0.0",
+  "description": "esbuild-isuue-#2628",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengxinssfd/esbuild-isuue--2628.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengxinssfd/esbuild-isuue--2628/issues"
+  },
+  "homepage": "https://github.com/mengxinssfd/esbuild-isuue--2628#readme",
+  "dependencies": {
+    "esbuild": "^0.15.12"
+  }
+}
